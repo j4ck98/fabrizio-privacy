@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Informativa privacy - Fabrizio Parrucchiere</title>
+<style>
+  :root { --fg:#1b1b1b; --bg:#ffffff; --muted:#5a5a5a; --line:#e2e2e2; --mark:#fff3b0; }
+  @media (prefers-color-scheme: dark) { :root { --fg:#ececec; --bg:#16171a; --muted:#a8a8a8; --line:#33343a; --mark:#5a4d00; } }
+  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.6 system-ui,-apple-system,"Segoe UI",sans-serif; }
+  main { max-width:760px; margin:0 auto; padding:24px 16px 64px; }
+  h1 { font-size:1.6rem; margin:0 0 4px; }
+  h2 { font-size:1.15rem; margin:32px 0 8px; padding-top:8px; border-top:1px solid var(--line); }
+  p, li { margin:8px 0; }
+  .muted { color:var(--muted); font-size:.92rem; }
+  mark { background:var(--mark); color:inherit; padding:0 3px; border-radius:3px; }
+  table { border-collapse:collapse; width:100%; margin:8px 0; font-size:.95rem; }
+  th, td { text-align:left; border-bottom:1px solid var(--line); padding:8px 6px; vertical-align:top; }
+  @media print { body { font-size:12pt; } mark { background:none; } }
+</style>
+</head>
+<body>
+<main>
+
+<h1>Informativa sul trattamento dei dati personali</h1>
+<p class="muted">Servizio di prenotazione tramite WhatsApp di Fabrizio Parrucchiere · Ultimo aggiornamento: 23/10/2026<br>
+Ai sensi degli artt. 13 e 14 del Regolamento (UE) 2016/679 (GDPR).</p>
+
+<h2 id="titolare">1. Chi tratta i tuoi dati</h2>
+<p>Il titolare del trattamento è Fabrizio Parrucchiere (titolare: Fabrizio Adragna), con sede in Via Fratelli Cervi, 206/A, 42124 Reggio nell'Emilia (RE),
+partita IVA 01922230352, email matteadra@gmail.com, telefono +39 339 734 0369.</p>
+
+<h2 id="servizio">2. Come funziona il servizio</h2>
+<p>Quando scrivi al numero WhatsApp del negozio dedicato alle prenotazioni, ti risponde un <strong>assistente virtuale automatico</strong> (basato su intelligenza artificiale),
+non una persona. L'assistente serve solo a gestire prenotazioni, spostamenti e annullamenti e a dare le informazioni di base del negozio (orari, servizi, prezzi).
+Il personale del negozio può leggere la conversazione e intervenire in qualsiasi momento. Se preferisci parlare con una persona, puoi chiamare il negozio al numero indicato sopra.</p>
+<p>Se il tuo numero era già nella rubrica del negozio perché sei un cliente, la prima volta che ci scrivi ti mandiamo il link a questa informativa.</p>
+
+<h2 id="dati">3. Quali dati trattiamo e da dove arrivano</h2>
+<ul>
+  <li>numero di telefono WhatsApp e nome del profilo (o il nome che ci indichi);</li>
+  <li>il contenuto dei messaggi che ci scrivi (testo e, se inviati, vocali, foto e altri allegati);</li>
+  <li>i dati della prenotazione: servizio, giorno, ora, barbiere scelto, eventuali preferenze e note;</li>
+  <li>lo storico degli appuntamenti e le tue risposte ai messaggi del negozio (compresa l'eventuale richiesta di non riceverne più).</li>
+</ul>
+<p>Di norma i dati ce li fornisci tu. Se eri già un cliente del negozio, il tuo nome e il tuo numero di telefono possono provenire dalla rubrica telefonica del negozio,
+dove il negozio li aveva già per gestire i tuoi appuntamenti, e sono stati inseriti nel sistema per riconoscerti quando ci scrivi.</p>
+<p>Non ti chiediamo dati sulla salute né altre categorie particolari di dati: ti invitiamo a non inserirli nei messaggi.</p>
+
+<h2 id="finalita">4. Perché li usiamo e su quale base</h2>
+<table>
+  <tr><th>Finalità</th><th>Base giuridica</th></tr>
+  <tr><td>Gestire le tue prenotazioni, risponderti e inviarti conferme e promemoria dell'appuntamento</td><td>Esecuzione del servizio che chiedi (art. 6.1.b GDPR)</td></tr>
+  <tr><td>Riconoscerti quando ci scrivi, se il tuo numero era già nella rubrica del negozio perché sei un cliente</td><td>Legittimo interesse del negozio a semplificare le prenotazioni dei propri clienti (art. 6.1.f); puoi opporti in qualsiasi momento</td></tr>
+  <tr><td>Chiederti, una sola volta, di lasciare una recensione sul profilo Google del negozio (vedi sotto)</td><td>Legittimo interesse del negozio a ricevere il parere dei propri clienti (art. 6.1.f); puoi opporti in qualsiasi momento scrivendo STOP</td></tr>
+  <tr><td>Sicurezza del servizio, prevenzione di abusi e tutela dei diritti del negozio</td><td>Legittimo interesse (art. 6.1.f)</td></tr>
+  <tr><td>Obblighi di legge (es. amministrativi e fiscali)</td><td>Obbligo legale (art. 6.1.c)</td></tr>
+</table>
+<p>Non ti mandiamo messaggi promozionali né richiami per riprenotare. Ti scriviamo per gestire le tue prenotazioni (conferme, promemoria, avvisi su eventuali modifiche) e,
+<strong>una sola volta</strong> per cliente, dopo il tuo primo appuntamento, per chiederti di lasciare una recensione sul profilo Google del negozio: il messaggio contiene il link alla pagina delle recensioni.
+La richiesta arriva solo a chi si è registrato attraverso il servizio di prenotazione dopo l'attivazione di questa funzione: non la mandiamo ai clienti già presenti nella rubrica del negozio che non si sono registrati.
+Lasciare una recensione è facoltativo; se scrivi una recensione lo fai sul sito di Google, che tratta i tuoi dati secondo la propria informativa. Per non ricevere più alcun messaggio dal negozio scrivi <strong>STOP</strong> in chat.</p>
+
+<h2 id="destinatari">5. Con chi condividiamo i dati</h2>
+<p>I dati sono trattati dal personale autorizzato del negozio e da fornitori che ci aiutano a erogare il servizio, nominati responsabili del trattamento dove previsto:</p>
+<ul>
+  <li><strong>Meta Platforms Ireland Ltd</strong> (WhatsApp Business Platform): trasmissione dei messaggi;</li>
+  <li><strong>Anthropic</strong>: elaborazione del testo dei messaggi per generare le risposte dell'assistente virtuale;</li>
+  <li><strong>Railway</strong>: hosting dell'applicazione e del database, con server nell'Unione Europea;</li>
+  <li><strong>Google</strong> (Google Calendar): registrazione degli appuntamenti; nel calendario compare solo il nome del cliente.</li>
+</ul>
+<p>Alcuni di questi fornitori hanno sede o trattano dati anche fuori dallo Spazio Economico Europeo (in particolare negli Stati Uniti). Il trasferimento avviene sulla base delle garanzie previste dal GDPR
+(decisione di adeguatezza o clausole contrattuali standard). Non vendiamo i tuoi dati.</p>
+
+<h2 id="conservazione">6. Per quanto tempo li conserviamo</h2>
+<ul>
+  <li>Messaggi della chat: 180 giorni, poi cancellati automaticamente.</li>
+  <li>Numero di telefono e nome del cliente: cancellati automaticamente 12 mesi dopo l'ultimo appuntamento.
+  Se non hai mai preso un appuntamento, i 12 mesi si contano dal giorno in cui sei entrato nel sistema: la tua registrazione tramite l'assistente, oppure il giorno in cui il negozio ha inserito il tuo numero
+  dalla propria rubrica. Se hai un appuntamento in programma, i dati restano almeno fino a quando è passato.</li>
+  <li>La cancellazione è automatica e viene controllata ogni giorno; puoi chiederla anche prima (vedi sotto). Dopo la cancellazione restano solo dati statistici anonimi sugli appuntamenti passati (servizio, giorno, ora), senza nome né numero.</li>
+  <li>Dati richiesti dagli obblighi fiscali e amministrativi: per il tempo previsto dalla legge.</li>
+</ul>
+
+<h2 id="diritti">7. I tuoi diritti</h2>
+<p>Puoi chiedere in qualsiasi momento l'accesso ai tuoi dati, la rettifica, la cancellazione, la limitazione, la portabilità, e opporti al trattamento (artt. 15-22 GDPR);
+puoi smettere di ricevere i messaggi del negozio (promemoria e richiesta di recensione) scrivendo <strong>STOP</strong> in chat. Scrivi a matteadra@gmail.com o consegna una richiesta al negozio:
+rispondiamo entro un mese. Se ritieni che il trattamento violi la normativa, puoi proporre reclamo al Garante per la protezione dei dati personali (<a href="https://www.garanteprivacy.it">www.garanteprivacy.it</a>).</p>
+<p>L'assistente virtuale non prende decisioni che producono effetti giuridici su di te: serve solo a organizzare gli appuntamenti.</p>
+
+<h2 id="cancellazione">8. Come chiedere la cancellazione dei dati</h2>
+<p>Per far cancellare i tuoi dati (numero di telefono, conversazioni, storico) scrivi a matteadra@gmail.com indicando il numero WhatsApp con cui ci hai scritto,
+oppure chiedilo di persona in negozio. Verifichiamo che la richiesta provenga da te e cancelliamo i dati dal sistema entro 30 giorni, salvo quelli che dobbiamo conservare per legge.</p>
+
+<h2 id="condizioni">9. Condizioni d'uso del servizio</h2>
+<p>Il servizio è offerto da Fabrizio Parrucchiere per prenotare appuntamenti in negozio. Usalo in modo corretto e solo per questo scopo.
+L'assistente virtuale può sbagliare: la prenotazione vale quando ti arriva la conferma, e in caso di dubbi puoi chiamare il negozio.
+Possiamo sospendere il servizio per manutenzione o per abusi. Non usare il servizio per inviare contenuti illeciti, offensivi o non pertinenti.</p>
+
+<p class="muted" style="margin-top:32px">Questa informativa può essere aggiornata: la versione in vigore è sempre quella pubblicata a questo indirizzo.</p>
+
+</main>
+</body>
+</html>
